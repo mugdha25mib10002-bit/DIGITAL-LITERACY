@@ -11,6 +11,12 @@ Overall, the presentation shows that digital literacy is essential for students 
   
 <h4>In case the link shows "Unable to render code block" due to internet issue, please download the raw file and check. Thank you  </h2> 
 https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/4f1ef869385195efbe231bb023a9e03db073728c/TASK-1
+
+<h2>📂 Task 2: Digital Portfolio</h2>
+<h4>In this task, I created my digital portfolio using platforms like GitHub, LinkedIn, and ResearchGate. These platforms help in building a professional online presence. GitHub is useful for sharing projects, LinkedIn helps in networking, and ResearchGate helps in exploring research work. This task helped me understand how these platforms can support my academic and career growth.</h4>
+<h3>linkdin:-www.linkedin.com/in/mugdha-bramhankar-66b4843b9</h3>
+<h3>ResearchGate:-https://www.researchgate.net/profile/Mugdha-Bramhankar?ev=prf_overview</h3>
+<h3>Github:-</h3>
   
   
   
