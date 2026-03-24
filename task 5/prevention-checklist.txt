@@ -1,1 +1,12 @@
+Prevention Checklist
 
+Never share your passwords, OTPs, or bank details with anyone
+Always double-check the sender before trusting any email or message
+Avoid clicking on links that look unknown or suspicious
+Make sure the website is secure by checking “https://” and the correct URL
+Turn on two-factor authentication (2FA) for better security
+Use strong passwords and change them from time to time
+Do not scan unknown QR codes or accept payment requests from strangers (UPI safety)
+Always check the receiver’s name carefully before making any UPI payment (UPI safety)
+Try to avoid using public Wi-Fi for banking or important activities
+If something seems suspicious, report it immediately to the cybercrime helpline (1930) or website (cybercrime.gov.in)
