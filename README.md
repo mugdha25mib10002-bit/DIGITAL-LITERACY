@@ -17,6 +17,12 @@ https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/4f1ef869385195efbe
 <h3>linkdin:-www.linkedin.com/in/mugdha-bramhankar-66b4843b9</h3>
 <h3>ResearchGate:-https://www.researchgate.net/profile/Mugdha-Bramhankar?ev=prf_overview</h3>
 <h3>Github:-https://github.com/mugdha25mib10002-bit</h3>
+
+<h2>💻 Task 3: Coding & Collaboration Platforms</h2>
+<h4>In this task, I used HackerRank to solve a basic programming problem, which helped me improve my logic and coding skills. I also created a Google Form as a digital literacy quiz. This helped me learn how to create surveys and collect responses. Overall, this task gave me practical experience with useful digital tools.</h4>
+
+
+                                                
   
   
   
