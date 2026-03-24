@@ -20,6 +20,14 @@ https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/4f1ef869385195efbe
 
 <h2>💻 Task 3: Coding & Collaboration Platforms</h2>
 <h4>In this task, I used HackerRank to solve a basic programming problem, which helped me improve my logic and coding skills. I also created a Google Form as a digital literacy quiz. This helped me learn how to create surveys and collect responses. Overall, this task gave me practical experience with useful digital tools.</h4>
+<h3>google form:-https://docs.google.com/forms/d/e/1FAIpQLSdBIMNvzZdQOsnstGmJmSTfYrUj0GlqPVJAz8wMZyXw2VCgrg/viewform?usp=publish-edito</h3>
+
+<h2>📧 Task 4: Email Etiquette & Communication</h2>
+<h4>In this task, I learned how to write professional emails. I created two emails—one for requesting an assignment extension and another for applying for an internship. I also made a social media checklist, which helped me understand responsible online behavior. This task improved my communication skills.</h4>
+
+
+
+
 
 
                                                 
