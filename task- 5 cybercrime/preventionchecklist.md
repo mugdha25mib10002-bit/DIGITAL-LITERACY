@@ -1,6 +1,6 @@
 <h2>Prevention Checklist</h2>
 
-<h3>1.Never share your passwords, OTPs, or bank details with anyone.
+1.Never share your passwords, OTPs, or bank details with anyone.
 
 
 2.Always double-check the sender before trusting any email or message.
@@ -24,4 +24,4 @@
 9.Try to avoid using public Wi-Fi for banking or important activities.
 
 
-10.If something seems suspicious, report it immediately to the cybercrime helpline (1930) or website (cybercrime.gov.in).</h3>
+10.If something seems suspicious, report it immediately to the cybercrime helpline (1930) or website (cybercrime.gov.in).
