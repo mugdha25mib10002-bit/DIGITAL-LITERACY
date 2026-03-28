@@ -26,8 +26,7 @@ google form:-https://docs.google.com/forms/d/e/1FAIpQLSdBIMNvzZdQOsnstGmJmSTfYrU
 
 <h2>📧 Task 4: Email Etiquette & Communication</h2>
 <h3>In this task, I learned how to write professional emails. I created two emails—one for requesting an assignment extension and another for applying for an internship. I also made a social media checklist, which helped me understand responsible online behavior. This task improved my communication skills.
-https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/e37445e1523127996382c4713a00b84ea12b619e/TASK%204</h3>
-
+https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/ca623e5194b6f51c4f919708d0e4f755d1e379b2/task-%204-%20email-ethiquette<h3>
 <h3>🔐 Task 5: Cybercrime Awareness</h3>
 <h2>In this task, I learned about phishing, a common type of cybercrime. I understood how attackers trick people and how we can stay safe online. I also created a prevention checklist. This task made me more aware and careful while using the internet.
 https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/cda5c9352e12415ab0c681a34dbc34d88b717787/task%205</h2>
