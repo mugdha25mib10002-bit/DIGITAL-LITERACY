@@ -9,13 +9,16 @@ Additionally, it discusses useful tools for students, including educational apps
 Overall, the presentation shows that digital literacy is essential for students to learn, stay safe, and succeed in the modern digital environment.
 
 In case the link shows "Unable to render code block" due to internet issue, please download the raw file and check. Thank you
-https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/4f1ef869385195efbe231bb023a9e03db073728c/TASK-1</h3>
-
+https://github.com/mugdha25mib10002-bit/DIGITAL-LITERACY/tree/5156043858b0bcf94e91b09425b0e8113a56c129/task-1%20presentation<H3>
 <h2>📂 Task 2: Digital Portfolio</h2>
 <h3>In this task, I created my digital portfolio using platforms like GitHub, LinkedIn, and ResearchGate. These platforms help in building a professional online presence. GitHub is useful for sharing projects, LinkedIn helps in networking, and ResearchGate helps in exploring research work. This task helped me understand how these platforms can support my academic and career growth.
+  
 linkdin:-www.linkedin.com/in/mugdha-bramhankar-66b4843b9
+  
 ResearchGate:-https://www.researchgate.net/profile/Mugdha-Bramhankar?ev=prf_overview
+
 Github:-https://github.com/mugdha25mib10002-bit</h3>
+
 
 <h2>💻 Task 3: Coding & Collaboration Platforms</h2>
 <h3>In this task, I used HackerRank to solve a basic programming problem, which helped me improve my logic and coding skills. I also created a Google Form as a digital literacy quiz. This helped me learn how to create surveys and collect responses. Overall, this task gave me practical experience with useful digital tools.
